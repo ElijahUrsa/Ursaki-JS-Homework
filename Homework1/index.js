@@ -50,18 +50,18 @@ console.log(typeof job);
 
 //task 7
 
-// let login = prompt('Ваш login?');
-// let email = prompt('Ваш email?');
-// let password = prompt('Ваш пароль?');
-// alert (`Dear ${login}, your email is ${email}, your password is ${password}`);
+let login = prompt('Ваш login?');
+let email = prompt('Ваш email?');
+let password = prompt('Ваш пароль?');
+alert (`Dear ${login}, your email is ${email}, your password is ${password}`);
 
 //task 8 
 
-// let Sec = 60;
-// let SecInHour = Sec * 60;
-// let SecInDay = SecInHour * 24;
-// let SecInYear = SecInDay * 365;
+let Sec = 60;
+let SecInHour = Sec * 60;
+let SecInDay = SecInHour * 24;
+let SecInYear = SecInDay * 365;
 
-// console.log(SecInHour);
-// console.log(SecInDay);
-// console.log(SecInYear);
+console.log(SecInHour);
+console.log(SecInDay);
+console.log(SecInYear);
